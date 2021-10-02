@@ -1,19 +1,9 @@
-# reaction-timer
+# Reaction Timer Game
+A simple game to check how fast or slow you react, written in Vue.
 
-## Project setup
-```
-npm install
-```
+Play it now: ...
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 😜 How to play
+1. Click the button that pops up 
+2. See your reaction time
+3. Invite your friends to play and compare with each other LOL
