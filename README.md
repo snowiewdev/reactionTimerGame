@@ -9,6 +9,7 @@ Play it now: https://are-you-fast-or-slow.netlify.app/
 3. Invite your friends to play and show them you've got the cheetah rank!
 
 ## 👾 Other Mini-Games
+2048 Cat : https://github.com/snowiewdev/2048-cat <br/>
 Catch A Cat : https://github.com/snowiewdev/CatchACat <br/>
 Connect Four : https://github.com/snowiewdev/connectFour <br/>
 Hangman : https://github.com/snowiewdev/hangman
